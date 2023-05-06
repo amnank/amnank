@@ -1,5 +1,7 @@
 ### Nice to see you here, I'm Amna! 👋
 
+#### Come and explore some of my coolest projects with me!
+
 <!--
 **amnank/amnank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
